@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 root = Tk()
-root.title("LuckyBox                                                                   作者：小明同学")
+root.title("LuckyBox                                                                   ")
 root.geometry("600x600")
 
 background_image = PhotoImage(file="bg.png")
